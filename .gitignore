@@ -1,0 +1,9 @@
+# Ignore large model weights and binaries
+*.pt
+*.pth
+
+# Common training outputs
+runs/
+
+# Dataset raw files (MNIST idx files are large)
+data/MNIST/raw/
