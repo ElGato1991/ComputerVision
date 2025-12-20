@@ -1,0 +1,8 @@
+# PyTorch model files
+*.pt
+
+# Training outputs
+runs/
+
+# Dataset directory
+data/
